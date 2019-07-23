@@ -1,0 +1,6 @@
+framework module Pods_MyNewworkLayer {
+  umbrella header "Pods-MyNewworkLayer-umbrella.h"
+
+  export *
+  module * { export * }
+}
